@@ -300,7 +300,7 @@ This demonstrates good generalization on unseen data.
 
 The following graph shows the improvement in training and validation accuracy over epochs.
 
-(Add your accuracy graph screenshot here)
+![Accuracy Graph](accuracy_graph.png)
 
 ---
 
@@ -308,7 +308,7 @@ The following graph shows the improvement in training and validation accuracy ov
 
 The following graph shows the reduction in training and validation loss over epochs.
 
-(Add your loss graph screenshot here)
+![Loss Graph](loss_graph.png)
 
 ---
 
@@ -335,9 +335,8 @@ UE24CS645BC2_PES1PG25CS098_Fashion_MNIST_CNN
 │
 ├── Fashion_MNIST_CNN.ipynb
 ├── README.md
-└── results
-    ├── accuracy_graph.png
-    └── loss_graph.png
+├── accuracy_graph.png
+└── loss_graph.png
 ```
 
 ---
